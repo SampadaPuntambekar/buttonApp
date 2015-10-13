@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">buttonApp</string>
+
+    <string name="hello_world">Hello world!Sampada is here!</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonLabel">Click me!</string>
+</resources>
